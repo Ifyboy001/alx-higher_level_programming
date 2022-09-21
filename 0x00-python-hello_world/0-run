@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print( i'm david)
+#!/usr/bin/bash
+python3 $PYFILE
